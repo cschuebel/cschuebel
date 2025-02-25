@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+My name is Chelsea and I am a graduate student at Carroll University. I am pursuing a masters degree in business administration and am also completing a masters degree certificate in data analytics.
 <!--
+
+  ## Tools: Tableau, SPSS, Excel, 
 **cschuebel/cschuebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
